@@ -21,7 +21,7 @@ A web-based food ordering application built using **Streamlit** and **MySQL**. T
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.x prefered on VS code
 - MySQL server (installed and running)
 - A MySQL database (e.g., `KHAYALI_PULAW`) with the necessary tables (Users, Restaurants, Menu, Orders, OrderDetails)
 
